@@ -6,7 +6,7 @@ The Everytab System/7 aims to make DOS easier to use compared to typing commands
 
 Head to releases to get the latest version.
 
-not open source (yet ig)
+An older version of the code is Open Source (es.bas)
 
 **Troubleshooting FAIL codes**
 00000000 - ACPI Shutdown failure - nothing to worry about
