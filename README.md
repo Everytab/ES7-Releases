@@ -8,6 +8,12 @@ Head to releases to get the latest version.
 
 An older version of the code is Open Source (es.bas)
 
+ES/7 is not a fully fledged software, we try to make sure releases have less bugs, but don't expect it to be fully stable
+
+Joi the discord server for more unstable betas.
+
+
+
 **Troubleshooting FAIL codes**
 00000000 - ACPI Shutdown failure - nothing to worry about
 
